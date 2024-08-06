@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "498011456712",
+    "firebase_url": "https://selivery-395216-default-rtdb.firebaseio.com",
+    "project_id": "selivery-395216",
+    "storage_bucket": "selivery-395216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498011456712:android:482f6882fe5a5577df91fd",
+        "android_client_info": {
+          "package_name": "com.selivery.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498011456712-37lfqprlrqnee9us551d7flli000u30h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selivery.client",
+            "certificate_hash": "c3b943093a1f5faea6a709b15f101e7f3dcdcb81"
+          }
+        },
+        {
+          "client_id": "498011456712-oovib3opqjjhb9i15pktdpsch89t335s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selivery.client",
+            "certificate_hash": "8bb3358a52f291c94340e70cccf759a4d1d04335"
+          }
+        },
+        {
+          "client_id": "498011456712-pvd2r10von4015luf04fpnsal98stlm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IPGaw3AaOKC-HsfgV2_oFPdr-M4f6HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498011456712-pgbglod422siotj334sbqgoig4r824t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498011456712-avd5bpbefbv2kg5qiedi925793ml3fkc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seliveryClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498011456712:android:4633f75fb987c311df91fd",
+        "android_client_info": {
+          "package_name": "com.selivery.deliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498011456712-v1av89s23n6j9gmc26mcbdrqspro7qbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selivery.deliver",
+            "certificate_hash": "70d6fb6e18708e207730991fe0098486d2b15588"
+          }
+        },
+        {
+          "client_id": "498011456712-pvd2r10von4015luf04fpnsal98stlm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IPGaw3AaOKC-HsfgV2_oFPdr-M4f6HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498011456712-pgbglod422siotj334sbqgoig4r824t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498011456712-avd5bpbefbv2kg5qiedi925793ml3fkc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seliveryClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498011456712:android:4c4a98fd788499a9df91fd",
+        "android_client_info": {
+          "package_name": "com.selivery_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498011456712-f65l0qd8jaqurnmejjm95bpsp4bfn7gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selivery_client",
+            "certificate_hash": "8bb3358a52f291c94340e70cccf759a4d1d04335"
+          }
+        },
+        {
+          "client_id": "498011456712-rks9utmm6qg16sad9smcu79i0tlg0ese.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selivery_client",
+            "certificate_hash": "c3b943093a1f5faea6a709b15f101e7f3dcdcb81"
+          }
+        },
+        {
+          "client_id": "498011456712-pvd2r10von4015luf04fpnsal98stlm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IPGaw3AaOKC-HsfgV2_oFPdr-M4f6HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498011456712-pgbglod422siotj334sbqgoig4r824t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498011456712-avd5bpbefbv2kg5qiedi925793ml3fkc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seliveryClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498011456712:android:056c336774626f36df91fd",
+        "android_client_info": {
+          "package_name": "com.selivery_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498011456712-t98emnv4tnckmsj30fisti1bufk6uhqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selivery_driver",
+            "certificate_hash": "70d6fb6e18708e207730991fe0098486d2b15588"
+          }
+        },
+        {
+          "client_id": "498011456712-pvd2r10von4015luf04fpnsal98stlm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IPGaw3AaOKC-HsfgV2_oFPdr-M4f6HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498011456712-pgbglod422siotj334sbqgoig4r824t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498011456712-avd5bpbefbv2kg5qiedi925793ml3fkc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seliveryClient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
